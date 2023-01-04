@@ -9,7 +9,13 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer> this project was coded by Rebecca Shuping</footer>
+        <footer>
+          {" "}
+          This project was coded by Rebecca Shuping and is{" "}
+          <a href="https://www.github.com/rsm917/dictionary-project">
+            open-sourced.
+          </a>
+        </footer>
       </div>
     </div>
   );
