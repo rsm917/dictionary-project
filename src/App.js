@@ -15,6 +15,7 @@ function App() {
           <a
             href="https://www.github.com/rsm917/dictionary-project"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced.
           </a>
