@@ -12,7 +12,10 @@ function App() {
         <footer>
           {" "}
           This project was coded by Rebecca Shuping and is{" "}
-          <a href="https://www.github.com/rsm917/dictionary-project">
+          <a
+            href="https://www.github.com/rsm917/dictionary-project"
+            target="_blank"
+          >
             open-sourced.
           </a>
         </footer>

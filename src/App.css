@@ -6,3 +6,8 @@ header {
 footer {
   text-align: center;
 }
+
+.container {
+  display: block;
+  margin: 0 auto;
+}
