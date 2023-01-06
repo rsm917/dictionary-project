@@ -1,5 +1,5 @@
 body {
-  background-color: #ecedf1;
+  background-color: #d3ecfa;
 }
 
 .App {
@@ -11,7 +11,9 @@ header {
   text-align: center;
   margin: 30px 0;
 }
-
+.App header h1 {
+  font-family: "Special Elite", cursive;
+}
 footer {
   text-align: center;
 }
